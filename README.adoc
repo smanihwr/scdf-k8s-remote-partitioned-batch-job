@@ -1,0 +1,1 @@
+Minikube, Helm Chart, Spring cloud data flow, Spring Batch(Remote Partition), Spring Cloud Task, Docker, Kubernetes
